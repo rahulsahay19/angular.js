@@ -49,7 +49,7 @@ We've set up a separate document for our [contribution guidelines](https://githu
 
 [![Analytics](https://ga-beacon.appspot.com/UA-8594346-11/angular.js/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
 
-What to use AngularJS for and when to use it
+Why to use AngularJS for and when to use it
 ---------
 AngularJS is the next generation framework where each component is designed to work with every other component in an interconnected way like a well-oiled machine. AngularJS is JavaScript MVC made easy and done right. (Well it is not really MVC, read on, to understand what this means.)
 
